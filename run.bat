@@ -1,0 +1,2 @@
+python FruitDetection.py
+pause
